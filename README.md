@@ -144,8 +144,7 @@ This code uses analog input, mathematical conversion, and LCD display output. It
 
 When the simulation starts, the LCD will display:
 
-Temp: 26.53 C
-```
+Temp: 120.23 C
 This value changes dynamically as you simulate the sensor input. You can click on the LM35 and adjust the temperature slider to simulate different ambient conditions. The LCD updates every second to show real-time readings.
 
 ##Output
