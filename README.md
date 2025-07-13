@@ -146,11 +146,11 @@ When the simulation starts, the LCD will display:
 
 Temp: 26.53 C
 ```
-
 This value changes dynamically as you simulate the sensor input. You can click on the LM35 and adjust the temperature slider to simulate different ambient conditions. The LCD updates every second to show real-time readings.
 
 ##Output
 
+<img width="1914" height="1091" alt="Image" src="https://github.com/user-attachments/assets/77abe6cb-d979-4ce4-8d2f-37b822740d82" />
 
 ## 🎯 Final Notes
 
